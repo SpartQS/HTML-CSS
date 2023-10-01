@@ -1,0 +1,10 @@
+li:empty {
+	border: 1px solid blue;
+	color: black;
+	width: 100px;
+}
+li {
+	border: 1px solid red;
+	color: black;
+	width: 100px;
+}
