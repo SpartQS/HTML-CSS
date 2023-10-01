@@ -1,0 +1,15 @@
+.f1p {
+    text-decoration: overline;
+    color: red;
+}
+.f2p {
+    text-decoration: line-through;
+    color:green;
+}
+.f3p {
+    text-decoration: underline;
+    font-weight: bold;
+}
+a {
+    color: red;
+}
