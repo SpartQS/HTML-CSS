@@ -1,0 +1,11 @@
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+	text-align: right;
+	padding-right: 10%;
+}
+.child {
+	padding: 10px;
+	border: 1px solid green;
+	display: inline-block;
+}

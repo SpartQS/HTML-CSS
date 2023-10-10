@@ -1,0 +1,14 @@
+.smoke {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+.smoke2 {
+    float: right;
+    width: 100px;
+    height: 100px;
+}
+div {
+    width: 400px;
+    text-align: justify;
+}
